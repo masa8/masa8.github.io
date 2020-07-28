@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Masaya Shimomatsu
 
-You can use the [editor on GitHub](https://github.com/masa8/masa8-masa8.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Work Experience
+#### 2018 - 現在 リサーチエンジニア, フリーランス  
+- 動物の行動予測アプリの設計と開発 
+    - 仕様言語・ライブラリ: Python, scikit-learn, pytorch, tensorflow, pandas, dash, flask, GCP(BigQuery, Pub/Sub, Cloud Run, Cloud  Build, Vision), Caffe  
+- 動物の行動識別モデルの設計と開発  
+- 時系列クラス分類 ( Xgboost, LSTM, etc )  
+- 行動識別( オプティカルフローを用いた独自アルゴリズム )  
+- 姿勢識別 (Wide ResNet, etc)  
+- 個体識別 ( Parameter-free Spacial Attention Net, etc)  
+- 動物検出 ( Faster R-CNN, etc )  
+#### 2017 - 2018 リサーチエンジニア, R＆D事業本部＠キヤノンITソリューションズ  
+- 動物の行動識別モデルの研究開発 
+- 映像を用いた行動識別  
+- 映像を用いた複数の動物の追跡   
+#### 2016 - 2017 イントレプレナー, 経営企画＠キヤノンITソリューションズ  
+- 事業計画の策定とマーケットテストの実施   
+- 酪農・畜産農家向けソリューションの実証実験  
+#### 2007 - 2016 プロジェクトリーダー, キヤノンソフトウエア  
+- 組織間のワークフローの調整・定義  
+- 共通ライブラリのリリース用ツールの設計と開発 (Ruby)  
+- プリンタ向けインストーラの設計と開発 (C++, Java)  
+- プリンタ同梱アプリの開発(C++)  
+#### 2006 - 2007 システムエンジニア, アスキーソリューションズ  
+- カラオケや銀行システムの開発   
+#### 2002 - 2006 プロダクトマネージャー, gsport, Inc.  
+- ソフトウエアモーションキャプチャーソフトの計画策定と実施  
+- ピッチングマシーンや上肢リハビリシステムの設計と開発  
+#### 2001 - 2002  リサーチアシスタント, 高度三次元動画像遠隔表示プロジェクト  
+- 三次元テレビの研究開発  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+千葉大学、千葉、日本 ー 学士( 画像工学)2001  
 
-### Markdown
+### Award
+- 優秀論文賞「超多眼立体画像に対する輻輳・調節・瞳孔反応」3次元画像カンファレ ンス2001  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masa8/masa8-masa8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Publication  
+- 画像ラボ2005年9月号 映像から三次元アニメを作るソフト  
+- 画像ラボ2003年4月号 影光学系扇型配列方式(FAPO方式)立体ディスプレイの開発  
+### Patent  
+- 特開2019-95172 冷蔵庫システム及び食材管理システム  
+- 特開2019-61600 情報処理装置、その制御方法とプログラム  
+- 特開2018-33365 情報処理装置、情報処理方法、プログラム  
+- 特開2017-91187 情報処理システム、制御方法、プログラム  
+- 特開2015-121982 情報処理装置、印刷装置、およびその制御方法とプログラム 
+- 特開2014-131185 情報処理装置、撮像装置、およびその制御方法とプログラム
+### Private Project
+- 戸塚めぐりアプリ(Android/iOS, js) 横浜市戸塚区と街歩きイベントを開催, 2014
+- 古民家めぐりアプリ(Android, js)  古民家再生協会関東地区会員大会にて発表,2014
