@@ -7,7 +7,7 @@
     - 仕様言語・ライブラリ: Python, scikit-learn, pytorch, tensorflow, pandas, dash, flask, GCP(BigQuery, Pub/Sub, Cloud Run, Cloud  Build, Vision), Caffe  
 - 動物の行動識別モデルの設計と開発  
 - 時系列クラス分類 ( Xgboost, LSTM, etc )  
-- 行動識別( オプティカルフローを用いた独自アルゴリズム )  
+- 行動識別( NN with Opticalflow )  
 - 姿勢識別 (Wide ResNet, etc)  
 - 個体識別 ( Parameter-free Spacial Attention Net, etc)  
 - 動物検出 ( Faster R-CNN, etc )  
