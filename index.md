@@ -1,8 +1,4 @@
-## Masaya Shimomatsu
 ![Photo](m.jpg "photo")
-
-### Outcome
-- Making the world a better place for Great Care  
 
 ### Work Experience
 #### 2018 - 現在 リサーチエンジニア, フリーランス  
