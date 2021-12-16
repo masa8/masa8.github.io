@@ -1,9 +1,17 @@
 ![Photo](m.jpg "photo")
 
 ### Work Experience
-#### 2018 - 現在 リサーチエンジニア, フリーランス  
+#### 2018 - 現在 リサーチエンジニア, フリーランス
+- 動物の行動に関するTime Series Classification 課題の研究開発
+  - 作業内容: 論文調査, 計画策定, 実施, 報告・提案
+  - 言語/ライブラリ: Python, tslearn, multi-head attention 等
+- 事業企画
+　- 作業内容: 事業企画書作成, 特許調査,　業務/データ分析, スケジュール作成
+- RFIDを用いた識別アプリのプロトタイプ作成
+  - 要求分析, 計画策定, 設計, 実装,　テスト, マニュアル作成
+  - 言語/ライブラリ: GCP, firebase, Flutter, Dart, Kotlin
 - 動物の行動予測アプリの設計と開発 
-    - 仕様言語・ライブラリ: Python, scikit-learn, pytorch, tensorflow, pandas, dash, flask, GCP(BigQuery, Pub/Sub, Cloud Run, Cloud  Build, Vision), Caffe  
+    - 言語/ライブラリ: Python, scikit-learn, pytorch, tensorflow, pandas, dash, flask, GCP(BigQuery, Pub/Sub, Cloud Run, Cloud  Build, Vision), Caffe  
 - 動物の行動識別モデルの設計と開発  
 - 時系列クラス分類 ( Xgboost, LSTM, etc )  
 - 行動識別( NN with Opticalflow )  
