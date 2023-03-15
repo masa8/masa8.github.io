@@ -9,7 +9,7 @@
 - 製品事業計画/対応提案　　
 - 動物の行動に関するTime Series Classification 課題の研究開発　　
   - 作業内容: 論文調査, 計画策定, 実施, 報告・提案　　
-  - 言語/ライブラリ: Python, tslearn, multi-head attention 等　　
+  - 言語/ライブラリ: Python, tslearn, multi-head attention, lightgbm 等　　
 - 事業企画  
 　- 作業内容: 事業企画書作成, 特許調査,　業務/データ分析, スケジュール作成
 - RFIDを用いた識別アプリのプロトタイプ作成
