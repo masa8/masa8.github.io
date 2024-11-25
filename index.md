@@ -2,6 +2,21 @@
 
 ### Work Experience
 #### 2018 - 現在　リサーチエンジニア, フリーランス/AGRAN合同会社　代表
+- ライブ翻訳システム
+- 筋電表示用スマートフォンアプリ
+- arXiv.org投稿論文の自動通知サービス開発
+- LLM関連開発
+  - SNS情報に対する年齢/性別/センチメント/マーケティングファネル推定/利用チャネル推定
+    - Langchain/openai/apacheBeam
+  - 生き物に関する質問ができるLINEChatbot開発
+    - Langchain/openai/LINESDK
+  - ChatBot開発
+    - langchain/llamaindex/openai/pinecone/
+    - langchain Custom Agent開発
+    - Auto Merging Retrieverの独自実装
+  - LlaMA2ファインチューニング
+  - Chatbotの評価
+  - openassistant-guanacoの日本語サブセット作成
 - 茶生産管理省力化システムの開発
 - 動物の心拍計測デバイスの精度評価
 - 動物の分娩予兆モデルの開発
