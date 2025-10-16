@@ -1,5 +1,8 @@
 ### Computer Vision Experience
 2018 - 現在　リサーチエンジニア
+- 動物の個体識別モデル開発
+    - 言語/ライブラリ: Python, RF-DETR 等
+      
 - 動物の分娩予兆モデルの開発
     - 言語/ライブラリ: Python, tslearn, multi-head attention, lightgbm 等
 　
